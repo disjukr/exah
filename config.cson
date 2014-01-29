@@ -1,0 +1,10 @@
+server = "irc.ozinger.org"
+port = 6667
+secure = false
+autoRejoin = true
+autoConnect = true
+nick = "exah"
+channels = [
+    "#haxe"
+    "#studio321"
+]
