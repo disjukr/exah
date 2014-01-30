@@ -1,0 +1,15 @@
+{
+  "name": "exah",
+  "description": "simple irc bot that execute haxe snippet",
+  "license": "MIT",
+  "author": "JongChan Choi <disjukr@naver.com>",
+  "dependencies": {
+    "cursive": "",
+    "irc": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/disjukr/exah.git"
+  },
+  "private": true
+}
